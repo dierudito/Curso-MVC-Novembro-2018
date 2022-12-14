@@ -1,0 +1,17 @@
+F:\Dropbox\Projetos\Desenvolvimento\CursoMvcNovembro18_IIII\src\EP.CursoMvc.Infra.Data\bin\Debug\EP.CursoMvc.Infra.Data.dll.config
+F:\Dropbox\Projetos\Desenvolvimento\CursoMvcNovembro18_IIII\src\EP.CursoMvc.Infra.Data\bin\Debug\EP.CursoMvc.Infra.Data.dll
+F:\Dropbox\Projetos\Desenvolvimento\CursoMvcNovembro18_IIII\src\EP.CursoMvc.Infra.Data\bin\Debug\EP.CursoMvc.Infra.Data.pdb
+F:\Dropbox\Projetos\Desenvolvimento\CursoMvcNovembro18_IIII\src\EP.CursoMvc.Infra.Data\bin\Debug\Dapper.dll
+F:\Dropbox\Projetos\Desenvolvimento\CursoMvcNovembro18_IIII\src\EP.CursoMvc.Infra.Data\bin\Debug\DomainValidation.dll
+F:\Dropbox\Projetos\Desenvolvimento\CursoMvcNovembro18_IIII\src\EP.CursoMvc.Infra.Data\bin\Debug\EntityFramework.dll
+F:\Dropbox\Projetos\Desenvolvimento\CursoMvcNovembro18_IIII\src\EP.CursoMvc.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+F:\Dropbox\Projetos\Desenvolvimento\CursoMvcNovembro18_IIII\src\EP.CursoMvc.Infra.Data\bin\Debug\EP.CursoMvc.Domain.dll
+F:\Dropbox\Projetos\Desenvolvimento\CursoMvcNovembro18_IIII\src\EP.CursoMvc.Infra.Data\bin\Debug\EP.CursoMvc.Domain.pdb
+F:\Dropbox\Projetos\Desenvolvimento\CursoMvcNovembro18_IIII\src\EP.CursoMvc.Infra.Data\bin\Debug\Dapper.xml
+F:\Dropbox\Projetos\Desenvolvimento\CursoMvcNovembro18_IIII\src\EP.CursoMvc.Infra.Data\bin\Debug\EntityFramework.xml
+F:\Dropbox\Projetos\Desenvolvimento\CursoMvcNovembro18_IIII\src\EP.CursoMvc.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+F:\Dropbox\Projetos\Desenvolvimento\CursoMvcNovembro18_IIII\src\EP.CursoMvc.Infra.Data\obj\Debug\EP.CursoMvc.Infra.Data.csprojAssemblyReference.cache
+F:\Dropbox\Projetos\Desenvolvimento\CursoMvcNovembro18_IIII\src\EP.CursoMvc.Infra.Data\obj\Debug\EP.CursoMvc.Infra.Data.csproj.CoreCompileInputs.cache
+F:\Dropbox\Projetos\Desenvolvimento\CursoMvcNovembro18_IIII\src\EP.CursoMvc.Infra.Data\obj\Debug\EP.CursoMvc.Infra.Data.csproj.CopyComplete
+F:\Dropbox\Projetos\Desenvolvimento\CursoMvcNovembro18_IIII\src\EP.CursoMvc.Infra.Data\obj\Debug\EP.CursoMvc.Infra.Data.dll
+F:\Dropbox\Projetos\Desenvolvimento\CursoMvcNovembro18_IIII\src\EP.CursoMvc.Infra.Data\obj\Debug\EP.CursoMvc.Infra.Data.pdb

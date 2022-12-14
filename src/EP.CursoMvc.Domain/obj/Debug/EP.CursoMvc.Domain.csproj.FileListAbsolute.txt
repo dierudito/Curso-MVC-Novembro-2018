@@ -1,0 +1,8 @@
+F:\Dropbox\Projetos\Desenvolvimento\CursoMvcNovembro18_IIII\src\EP.CursoMvc.Domain\bin\Debug\EP.CursoMvc.Domain.dll
+F:\Dropbox\Projetos\Desenvolvimento\CursoMvcNovembro18_IIII\src\EP.CursoMvc.Domain\bin\Debug\EP.CursoMvc.Domain.pdb
+F:\Dropbox\Projetos\Desenvolvimento\CursoMvcNovembro18_IIII\src\EP.CursoMvc.Domain\bin\Debug\DomainValidation.dll
+F:\Dropbox\Projetos\Desenvolvimento\CursoMvcNovembro18_IIII\src\EP.CursoMvc.Domain\obj\Debug\EP.CursoMvc.Domain.csprojAssemblyReference.cache
+F:\Dropbox\Projetos\Desenvolvimento\CursoMvcNovembro18_IIII\src\EP.CursoMvc.Domain\obj\Debug\EP.CursoMvc.Domain.csproj.CoreCompileInputs.cache
+F:\Dropbox\Projetos\Desenvolvimento\CursoMvcNovembro18_IIII\src\EP.CursoMvc.Domain\obj\Debug\EP.CursoMvc.Domain.csproj.CopyComplete
+F:\Dropbox\Projetos\Desenvolvimento\CursoMvcNovembro18_IIII\src\EP.CursoMvc.Domain\obj\Debug\EP.CursoMvc.Domain.dll
+F:\Dropbox\Projetos\Desenvolvimento\CursoMvcNovembro18_IIII\src\EP.CursoMvc.Domain\obj\Debug\EP.CursoMvc.Domain.pdb
